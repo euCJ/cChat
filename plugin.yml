@@ -1,0 +1,10 @@
+name: CustomCommands
+version: '1.0'
+main: me.imcj.customcommands.CustomCommands
+api-version: 1.19
+authors: [ImCJ_]
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.8.10
+commands:
+  helloword:
+  cores:
